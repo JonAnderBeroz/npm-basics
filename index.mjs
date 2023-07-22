@@ -8,4 +8,4 @@ console.log(a);
 console.log(multiply(5, 4));
 console.log(mod(8, 4));
 
-console.log(divide(5, 4));
+console.log(multiply(5, 4));
