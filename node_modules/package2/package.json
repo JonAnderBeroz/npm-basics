@@ -1,0 +1,14 @@
+{
+  "name": "package2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "author": "",
+  "license": "ISC",
+  "config": {
+    "port": "8080"
+  },
+  "os": [
+    "!linux"
+  ]
+}

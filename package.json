@@ -1,0 +1,14 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node --watch index.mjs"
+  },
+  "dependencies": {
+    "mathy": "file:packages/mathy"
+  },
+  "workspaces": [
+    "./packages/*"
+  ]
+}
