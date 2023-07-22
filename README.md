@@ -1,3 +1,3 @@
 # Npm basics
 
-This is a repository with the purpose of learning the gist of how package.json works.
+This is a repository with the purpose of learning how the package.json file works.
