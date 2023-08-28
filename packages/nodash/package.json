@@ -1,8 +1,8 @@
 {
-  "name": "package2",
+  "name": "nodash",
   "version": "1.0.0",
   "description": "",
-  "main": "index.mjs",
+  "main": "index.js",
   "author": "",
   "license": "ISC",
   "config": {
@@ -10,5 +10,8 @@
   },
   "os": [
     "!linux"
-  ]
+  ],
+  "engines": {
+    "node": ">=18.12.1"
+  }
 }
